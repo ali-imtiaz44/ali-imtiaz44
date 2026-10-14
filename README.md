@@ -1,4 +1,4 @@
-# Hi, I'm Ali Imtiaz 👋
+# Hi, I'm Ali Imtiaz
 
 **Senior Full Stack Software Engineer | 6+ Years of Experience**
 
@@ -10,7 +10,7 @@ My primary focus is building maintainable applications, efficient APIs, multi-te
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - **Full Stack Development:** Build end-to-end applications using React, Next.js, Node.js, NestJS, and Python.
 - **Backend Engineering:** Design REST, GraphQL, and gRPC APIs, microservices, background jobs, and service integrations.
@@ -25,7 +25,7 @@ My primary focus is building maintainable applications, efficient APIs, multi-te
 
 ---
 
-## 🧠 Engineering Principles
+## Engineering Principles
 
 I believe good software engineering goes beyond making something work. It also means making it understandable, maintainable, secure, and reliable in production.
 
@@ -39,7 +39,7 @@ I believe good software engineering goes beyond making something work. It also m
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -168,19 +168,6 @@ My approach to technical leadership includes:
 
 **Bachelor of Science in Computer Science**  
 University of Engineering and Technology (UET), Lahore
----
-
-## 📈 GitHub Activity
-
-I use GitHub to explore ideas, work on software projects, and share code.
-
-<!-- GitHub stats: replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
 
 ---
 
